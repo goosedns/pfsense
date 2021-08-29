@@ -1,8 +1,10 @@
 0.0.0.0 netgate.com
 0.0.0.0 pfsense.com
+0.0.0.0 pfsense.org
 0.0.0.0 webcache.googleusercontent.com
 0.0.0.0 www.netgate.com
 0.0.0.0 www.pfsense.com
+0.0.0.0 www.pfsense.org
 0.0.0.0 www.webcache.googleusercontent.com
 0.0.0.0 0.gravatar.com
 0.0.0.0 011c8.com
